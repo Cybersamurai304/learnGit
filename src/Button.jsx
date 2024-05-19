@@ -11,6 +11,5 @@ const Button = () => {
     </div>
   )
 }
-const msg = 
 
 export default Button 
